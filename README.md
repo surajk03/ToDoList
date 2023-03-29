@@ -1,6 +1,6 @@
 # ToDoList
 ## .preview
-![To-Do List App](![Screenshot (1514)](https://user-images.githubusercontent.com/85605614/228605817-891ff5ed-5eac-4b76-9a65-adee90adc871.png))
+![Screenshot (1514)](https://user-images.githubusercontent.com/85605614/228605817-891ff5ed-5eac-4b76-9a65-adee90adc871.png)
 
 ## .features
 - [x] Show tasks list
